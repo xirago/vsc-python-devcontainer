@@ -1,0 +1,8 @@
+---
+failure-threshold: error
+override:
+  warning:
+    - DL3008
+    - DL3042
+    - DL3012
+    - DL3013
